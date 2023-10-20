@@ -1,1 +1,1 @@
-Series of Python functions to format and analyse data generated from FOB-SH simulations.
+Series of Python functions to format and analyse data generated from FOB-SH simulations. The analysis functions use the electronic wavefunction coefficients calculated at each timestep of the simulation to determine the location of the charge carrier, and its extent of delocalisation.
